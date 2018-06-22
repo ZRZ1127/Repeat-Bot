@@ -1,1 +1,1 @@
-worker: node RepeatBot.js
+worker: node repeatbot.js
