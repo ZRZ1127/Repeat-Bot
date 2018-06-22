@@ -25,4 +25,4 @@ if(cmd === `${prefix}Victor`){
 
 });
 
-bot.login(botconfig.token);
+client.login(process.env.BOT_TOKEN)
